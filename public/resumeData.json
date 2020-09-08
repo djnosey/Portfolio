@@ -1,0 +1,143 @@
+{
+  "main": {
+    "name": "Steven Payne",
+    "occupation": "Full stack Developer, Comapany Founder, Ex-chef",
+    "description": "MERN Stack, specializing in solutions",
+    "image": "IG_Sonny.jpeg",
+    "bio": "My name is Steven Payne, Im a creative full stack developer in training, business founder and ex-Michelin starred chef. Having previously founded a restaurant group and achieved my goals in hospitality, I decided to change career and learn to code. I`ve worked in solutions for a media publishing and ad-tech startup, I'm Currently studying and working as a freelancer while looking for an opportunity to bring my unique skill-set to the next big startup.  ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "djnosey@hotmail.co.uk",
+    "phone": "+34 635 029 092",
+    "address": {
+      "street": "",
+      "city": "Barcelona",
+      "state": "Spain",
+      "zip": ""
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://www.linkedin.com/in/steven-payne-02908785/",
+    "social": [
+   
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/steven-payne-02908785/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/djnosey/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/djnosey",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My creative background, abilty to think on my feet, solve complex problems, team work, communication and entrepreneurial spirit lend themselves perfectly to startup culture",
+    "education": [
+      {
+        "school": "IronHack",
+        "degree": "Web-Development Bootcamp",
+        "graduated": "December 2020",
+        "description": "Currently Studying MERN stack after winning a partial scholarship at the world renowned developer bootcamp"
+      },
+      {
+        "school": "FreeCodeCamp.org",
+        "degree": "Responsive Web Design/Javascript Algorithms and Data Structures",
+        "graduated": "Dec 2019",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Marfeel Solutions",
+        "title": "JavaScript/HTML/CSS Solutioneer",
+        "years": "Jan 2020 - July 2020",
+        "description": " Part of an agile solutions team solving both front-end and back-end issues for major news publishers such as \"The Washington Times\" and \"Euronews\". Work included general website maintenance - Widgets, AdServers, Analytics, Styles. Reproducung bugs and finding broken elements in the code. Implementation of cross-sold technologies such as Content delivery network, Google AMP, Progressive web apps. Determining if 3rd party technologies are compatible with the Marfeel solution "
+      },
+      {
+        "company": "MVR Group/Roll Up",
+        "title": "Founder",
+        "years": "Feb 2013 - Aug 2018",
+        "description": "Created the restaurant concept, including branding and menus - generating sales of €60,000 per month in the first location. Successfully lead expansion of the chain, opening 4 locations in 3 years and creating 2 new brands, reaching combined turnover of over €2 million per year. Responsible for financial performance of the chain, preparing financial forecasts and controlling budgets. Developed and trained a team of 30 people with a 2 years average turnover. Developed complete marketing strategy including special actions with credit card companies, social media marketing and promotion through partners such as Wolt and Just eat. Actively managed costs by negotiating deals with local and small suppliers and setting up a secondary supply chain over which we had significant bargaining power."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "level": "95%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+
+      {
+        "name": "NodeJS",
+        "level": "50%"
+      },
+
+      {
+        "name": "ExpressJS",
+        "level": "50%"
+      },
+
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "Adobe InDesign",
+        "level": "55%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      },
+      {
+        "name": "ruby",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "InoxFred",
+        "category": "Website for refrigeration and commercial kitchen fitting company",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.inoxfred.es"
+      },
+      {
+        "title": "HTML/CSS NPM Clone",
+        "category": "NPM Clone built using HTML CSS only",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://codepen.io/djnosey/full/eYZBZWr"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Steve and I have worked in the same team and I've been amazed by his dedication and attention to detail which make him stand out from other candidates in demanding industries such as IT. I'd be happy to recommend him for any position in the SaaS industry as he's a fast-learner, good team member and is not afraid to proactively share his ideas to improve processes and customer satisfaction. Overall, he'd be a great asset to any team and company particularly focused on providing great customer experience to high-stake clients.",
+        "user": "Fanny Feddon, Customer Success Executive at Marfeel"
+      },
+      {
+        "text": "Steven is a great communicator and a jack of all trades. He has both technical and customer facing expertise and it was a pleasure to work alongside him at Marfeel. Steven is a natural problem solver and always takes the time to help others.",
+        "user": "Rares Radulescu, Customer Success Manager at Marfeel"
+      }
+    ]
+  }
+}
