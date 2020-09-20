@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Steven Payne",
-    "occupation": "Full stack Developer, Comapany Founder, Ex-chef",
+    "occupation": "Full stack Developer, Company Founder",
     "description": "MERN Stack, specializing in solutions",
     "image": "IG_Sonny.jpeg",
     "bio": "My name is Steven Payne, Im a creative full stack developer in training, business founder and ex-Michelin starred chef. Having previously founded a restaurant group and achieved my goals in hospitality, I decided to change career and learn to code. I`ve worked in solutions for a media publishing and ad-tech startup, I'm Currently studying and working as a freelancer while looking for an opportunity to bring my unique skill-set to the next big startup.  ",
@@ -56,7 +56,7 @@
         "company": "Marfeel Solutions",
         "title": "JavaScript/HTML/CSS Solutioneer",
         "years": "Jan 2020 - July 2020",
-        "description": " Part of an agile solutions team solving both front-end and back-end issues for major news publishers such as \"The Washington Times\" and \"Euronews\". Work included general website maintenance - Widgets, AdServers, Analytics, Styles. Reproducung bugs and finding broken elements in the code. Implementation of cross-sold technologies such as Content delivery network, Google AMP, Progressive web apps. Determining if 3rd party technologies are compatible with the Marfeel solution "
+        "description": "Support Agent in an agile solutions team solving both front-end and back-end issues for major news publishers such as \"The Washington Times\" and \"Euronews\". My role was the main point of contact for clients and organising the backlog for the team. The team's work included general website maintenance - Widgets, AdServers, Analytics, Styles. Reproducung bugs and finding broken elements in the code. Implementation of cross-sold technologies such as Content delivery network, Google AMP, Progressive web apps. Determining if 3rd party technologies are compatible with the Marfeel solution "
       },
       {
         "company": "MVR Group/Roll Up",
@@ -70,9 +70,15 @@
         "name": "HTML5",
         "level": "95%"
       },
+
+      {
+        "name": "CSS",
+        "level": "85%"
+      },
+      
       {
         "name": "JavaScript",
-        "level": "90%"
+        "level": "75%"
       },
 
       {
@@ -82,18 +88,15 @@
 
       {
         "name": "NodeJS",
-        "level": "50%"
+        "level": "40%"
       },
 
       {
         "name": "ExpressJS",
-        "level": "50%"
+        "level": "40%"
       },
 
-      {
-        "name": "CSS",
-        "level": "80%"
-      },
+      
       {
         "name": "Git",
         "level": "75%"
@@ -120,6 +123,21 @@
         "image": "whatsapp-mern.jpeg",
         "url": "https://www.inoxfred.es"
       },
+
+      {
+        "title": "Amazon",
+        "category": " Made with React! Full stack E-commerce site, with user authentication and card payment",
+        "image": "amazonlogo.png",
+        "url": "https://clone-d29c9.web.app/"
+      },
+
+      {
+        "title": "COVID-19 Tracker",
+        "category": "Made with React! Demonstrates Data visualization, responsiveness, API calls ",
+        "image": "corona.jpg",
+        "url": "https://covid-tracker-305ee.web.app/"
+      },
+
       {
         "title": "HTML/CSS NPM Clone",
         "category": "NPM Clone built using HTML CSS only",
