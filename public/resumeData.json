@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Steven Payne",
-    "occupation": "Full stack Developer, Company Founder",
+    "occupation": "Full stack Developer and Company Founder",
     "description": "MERN Stack, specializing in solutions",
     "image": "IG_Sonny.jpeg",
-    "bio": "My name is Steven Payne, Im a creative full stack developer in training, business founder and ex-Michelin starred chef. Having previously founded a restaurant group and achieved my goals in hospitality, I decided to change career and learn to code. I`ve worked in solutions for a media publishing and ad-tech startup, I'm Currently studying and working as a freelancer while looking for an opportunity to bring my unique skill-set to the next big startup.  ",
+    "bio": "My name is Steven Payne, Im a creative full stack developer, business founder and ex-Michelin starred chef. Having previously founded a restaurant group and achieved my goals in hospitality, I decided to change career and learn to code. I've worked in solutions for a media publishing and ad-tech startup, I'm Currently working as a freelancer while looking for an opportunity to bring my unique skill-set to the next big startup.  ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "djnosey@hotmail.co.uk",
     "phone": "+34 635 029 092",
@@ -17,7 +17,6 @@
     "website": "http://www.timbakerdev.com",
     "resumedownload": "https://www.linkedin.com/in/steven-payne-02908785/",
     "social": [
-   
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/steven-payne-02908785/",
@@ -42,7 +41,7 @@
         "school": "IronHack",
         "degree": "Web-Development Bootcamp",
         "graduated": "December 2020",
-        "description": "Currently Studying MERN stack after winning a partial scholarship at the world renowned developer bootcamp"
+        "description": "I won a partial scholarship at the world renowned developer bootcamp. Studies included Web-Development with MERN stack, QA testing, UX fundamentals, Test driven development"
       },
       {
         "school": "FreeCodeCamp.org",
@@ -56,7 +55,7 @@
         "company": "Marfeel Solutions",
         "title": "JavaScript/HTML/CSS Solutioneer",
         "years": "Jan 2020 - July 2020",
-        "description": "Support Agent in an agile solutions team solving both front-end and back-end issues for major news publishers such as \"The Washington Times\" and \"Euronews\". My role was the main point of contact for clients and organising the backlog for the team. The team's work included general website maintenance - Widgets, AdServers, Analytics, Styles. Reproducung bugs and finding broken elements in the code. Implementation of cross-sold technologies such as Content delivery network, Google AMP, Progressive web apps. Determining if 3rd party technologies are compatible with the Marfeel solution "
+        "description": "Part of an agile solutions team solving both front-end and back-end issues for major news publishers such as \"The Washington Times\" and \"Euronews\". Work included general website maintenance - Widgets, AdServers, Analytics, Styles. Reproducung bugs and finding broken elements in the code. Implementation of cross-sold technologies such as Content delivery network, Google AMP, Progressive web apps. Determining if 3rd party technologies are compatible with the Marfeel solution "
       },
       {
         "company": "MVR Group/Roll Up",
@@ -75,31 +74,30 @@
         "name": "CSS",
         "level": "85%"
       },
-      
+
       {
         "name": "JavaScript",
-        "level": "75%"
+        "level": "90%"
       },
 
       {
         "name": "ReactJs",
-        "level": "75%"
+        "level": "90%"
       },
 
       {
         "name": "NodeJS",
-        "level": "40%"
+        "level": "70%"
       },
 
       {
         "name": "ExpressJS",
-        "level": "40%"
+        "level": "85%"
       },
 
-      
       {
         "name": "Git",
-        "level": "75%"
+        "level": "70%"
       },
       {
         "name": "Adobe InDesign",
@@ -107,7 +105,7 @@
       },
       {
         "name": "MongoDB",
-        "level": "50%"
+        "level": "75%"
       },
       {
         "name": "ruby",
@@ -118,24 +116,49 @@
   "portfolio": {
     "projects": [
       {
-        "title": "InoxFred",
-        "category": "Website for refrigeration and commercial kitchen fitting company",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.inoxfred.es"
+        "title": "FlavorLab",
+        "category": "Full Stack application, ReactJS, NodeJS, ExpressJS, MongoDB, Framer Animation, Cookies, session & auth. Desktop size only ",
+        "image": "flavorlab.png",
+        "url": "https://flavorlab.herokuapp.com/"
+      },
+
+      {
+        "title": "Trade Up",
+        "category": "NodeJS, ExpressJS with server side rendering using express-react-views (mobile view only)",
+        "image": "nous_encants.jpg",
+        "url": "https://trade-up-app.herokuapp.com/"
+      },
+
+      {
+        "title": "The Finnish Line",
+        "category": "HTML,CSS,JS Event and activity finder finder for Finland ",
+        "image": "Screen Shot 2020-12-14 at 09.44.10.png",
+        "url": "https://djnosey.github.io/module-1-project-Finnish-Line/"
+      },
+      {
+        "title": "A2",
+        "category": "ReactJS frontend, Django Backend, professional Job for Economics Blogger",
+        "image": "logo.e8f9437d.png",
+        "url": "https://blog-rodrigo-838fa.web.app/"
       },
 
       {
         "title": "Amazon",
-        "category": " Made with React! Full stack E-commerce site, with user authentication and card payment",
+        "category": "ReactJS Frontend,  Firebase backend and Stripe card payment",
         "image": "amazonlogo.png",
         "url": "https://clone-d29c9.web.app/"
       },
-
       {
         "title": "COVID-19 Tracker",
         "category": "Made with React! Demonstrates Data visualization, responsiveness, API calls ",
         "image": "corona.jpg",
         "url": "https://covid-tracker-305ee.web.app/"
+      },
+      {
+        "title": "InoxFred",
+        "category": "Website for refrigeration and commercial kitchen fitting company",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.inoxfred.es"
       },
 
       {
